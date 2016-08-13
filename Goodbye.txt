@@ -1,2 +1,3 @@
 print("Goodbye")
 print("Goodbye class is finish")
+print("We go in C++")
